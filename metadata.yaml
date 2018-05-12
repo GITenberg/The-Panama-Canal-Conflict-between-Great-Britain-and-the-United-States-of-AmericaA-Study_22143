@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/25139
     wikipedia: http://en.wikipedia.org/wiki/L._F._L._Oppenheim
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/22143#The-Panama-Canal-Conflict-between-Great-Britain-and-the-United-States-of-AmericaA-Study
 gutenberg_issued: '2007-07-25'
 gutenberg_type: Text
 identifiers:
